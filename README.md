@@ -1,3 +1,3 @@
 # test2
 # updating readme from example
-# updating readme from update-readme before using rebase
+# updating readme from update-readme
